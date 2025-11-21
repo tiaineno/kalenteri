@@ -37,7 +37,7 @@ const AdventCalendar = () => {
     // return true;
     
     // For production: only unlock if it's December and day has arrived
-    if (currentMonth === 11) { // December
+    if (currentMonth === 10) { // December
       return day <= currentDay;
     }
     return false; // Lock all doors if not December
