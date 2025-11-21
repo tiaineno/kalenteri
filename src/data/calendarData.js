@@ -1,7 +1,7 @@
 // Calendar data with content for each day
 // You can replace these URLs with your own images/videos
 export const calendarData = [
-  { day: 1, type: 'image', url: 'https://res.cloudinary.com/dh4pf2fw5/image/upload/v1763737263/koodauskurssi_qtkewe.png', title: 'Ekojen treffien meemit???' },
+  { day: 1, type: 'image', url: 'https://res.cloudinary.com/dh4pf2fw5/image/upload/v1763737263/koodauskurssi_qtkewe.png', title: 'Ekojen treffien meemit (koodauskurssi ja bilis-poser)' },
   { day: 2, type: 'image', url: 'https://res.cloudinary.com/dh4pf2fw5/image/upload/v1763737263/N%C3%A4ytt%C3%B6kuva_2025-11-21_163352_pwh6jd.png', title: 'This piano' },
   { day: 3, type: 'video', url: 'https://res.cloudinary.com/dh4pf2fw5/video/upload/v1763737268/cum_puk9jv.mp4', title: 'Come as you are' },
   { day: 4, type: 'video', url: 'https://res.cloudinary.com/dh4pf2fw5/video/upload/v1763737908/nokia_u1dkig.mp4', title: 'Nokia arabic ringtone (ei arabic wave!!!)' },
