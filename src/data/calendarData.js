@@ -24,5 +24,5 @@ export const calendarData = [
   { day: 21, type: 'image', url: 'https://res.cloudinary.com/dh4pf2fw5/image/upload/v1766149448/nuppi_j1wkyd.png', title: 'Nuppi, Nuppi jr. ja Nöyhtä' },
   { day: 22, type: 'image', url: 'https://res.cloudinary.com/dh4pf2fw5/image/upload/v1766149476/Snapchat-1832455740_1_eucqjb.jpg', title: 'Yt tea' },
   { day: 23, type: 'video', url: 'https://res.cloudinary.com/dh4pf2fw5/video/upload/v1766149473/obama_idnwt2.mp4', title: 'Me and bros when obama bans christianity' },
-  { day: 24, type: 'video', url: 'https://res.cloudinary.com/dh4pf2fw5/video/upload/v1766149469/topihaalari_ugunfj.mp4', title: 'Topihaalari/kuorsausvidi/jämät' }
+  { day: 24, type: 'video', url: 'https://res.cloudinary.com/dh4pf2fw5/video/upload/v1766149469/topihaalari_ugunfj.mp4', title: 'Topihaalari' }
 ];
